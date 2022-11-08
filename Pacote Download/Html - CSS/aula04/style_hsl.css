@@ -1,0 +1,22 @@
+
+.cor1{
+    background-color:hsla(120,43%,57%);
+}
+.cor2{
+    background-color:  hsla(240,38%,62%);
+}
+.cor3{
+    background-color:hsla(0,100%,50%, 1.0);
+}
+.cor4{
+    background-color:hsla(0,100%,50%, 0.8);
+}
+.cor5{
+    background-color:hsla(0,100%,50%, 0.5);
+}
+.cor6{
+    background-color:hsla(0,100%,50%, 0.3);
+}
+#outracor{
+    background-color:hsla(0,100%,50%, 0.1);
+}
